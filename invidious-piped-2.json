@@ -1,0 +1,11 @@
+{
+  "instances": [
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "url": "https://invidious-eu01.yattee.stream"
+    }
+  ]
+}
