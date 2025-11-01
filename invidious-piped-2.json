@@ -1,10 +1,10 @@
 {
   "instances": [
     {
-      "app": "Invidious",
-      "region": "Europe",
+      "app": "None",
+      "region": "None",
       "country": "None",
-      "flag": "🇳🇱",
+      "flag": "🏳️",
       "url": "https://none.none"
     }
   ]
